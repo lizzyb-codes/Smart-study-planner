@@ -81,7 +81,7 @@ In simple terms, the program acts as a flexible study planner that helps student
   - English (Difficulty: 1, Progress: 8)
   - Chemistry (Difficulty: 2, Progress: 6)
   - Physics (Difficulty: 2, Progress: 7)
-- Available study time: 6 hours
+- Available study time: 3 hours
 
 **Output
 1. Chemistry = 2 hr
